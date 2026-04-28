@@ -1,0 +1,6 @@
+board:
+  name: my_board
+  full_name: My Board for Iomico course
+  vendor: M_Suchta
+  socs:
+    - name: stm32f446xx
